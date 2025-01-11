@@ -5,7 +5,7 @@
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
   "udev": true,
-  "url": "https://github.com/steve22184/zigbee2mqtt",
+  "url": "https://github.com/steve22184/hassio-zigbee2mqtt/edit/master",
   "startup": "application",
   "services": [
     "mqtt:need"
